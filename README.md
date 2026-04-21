@@ -10,8 +10,10 @@ A modern, full-stack SaaS-style web application for managing tasks and notes wit
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-v4-06B6D4?style=flat-square&logo=tailwindcss)
 
 <div align="center">
-  <img src="./docs/login.png" alt="FlowSpace Login" width="49%" />
-  <img src="./docs/dashboard.png" alt="FlowSpace Dashboard" width="49%" />
+  <img src="./docs/dashboard.png" alt="FlowSpace Dashboard" width="100%" />
+  <br />
+  <br />
+  <img src="./docs/login.png" alt="FlowSpace Login" width="100%" />
 </div>
 
 ---
