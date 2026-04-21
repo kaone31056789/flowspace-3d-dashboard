@@ -9,6 +9,10 @@ A modern, full-stack SaaS-style web application for managing tasks and notes wit
 ![Three.js](https://img.shields.io/badge/Three.js-3D%20Graphics-000000?style=flat-square&logo=threedotjs)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-v4-06B6D4?style=flat-square&logo=tailwindcss)
 
+<div align="center">
+  <img src="./docs/dashboard.png" alt="FlowSpace Dashboard" width="100%" />
+</div>
+
 ---
 
 ## 📖 Table of Contents
@@ -422,7 +426,6 @@ The app uses the **"Aether Slate"** design system generated via Stitch MCP:
 - "Continue with Google" authentication button
 
 ### Dashboard
-![Dashboard](./docs/dashboard.png)
 
 - Floating glass navbar with user profile and logout
 - Personalized greeting with time-based message
