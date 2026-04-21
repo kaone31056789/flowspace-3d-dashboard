@@ -414,12 +414,16 @@ The app uses the **"Aether Slate"** design system generated via Stitch MCP:
 ## 📸 Screenshots
 
 ### Login Page
+![Login Page](./docs/login.png)
+
 - Deep dark navy background with ambient indigo glow
 - Centered glassmorphism card with FlowSpace branding
 - 3D animated sphere and floating rings behind the card
 - "Continue with Google" authentication button
 
 ### Dashboard
+![Dashboard](./docs/dashboard.png)
+
 - Floating glass navbar with user profile and logout
 - Personalized greeting with time-based message
 - Stats row: Total, Tasks, Notes, Completed
